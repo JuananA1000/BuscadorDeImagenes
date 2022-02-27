@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/JuananA1000.github.io/BuscadorDeImagenes/static/css/main.eb50943b.css",
+    "main.js": "/JuananA1000.github.io/BuscadorDeImagenes/static/js/main.31350999.js",
+    "index.html": "/JuananA1000.github.io/BuscadorDeImagenes/index.html",
+    "main.eb50943b.css.map": "/JuananA1000.github.io/BuscadorDeImagenes/static/css/main.eb50943b.css.map",
+    "main.31350999.js.map": "/JuananA1000.github.io/BuscadorDeImagenes/static/js/main.31350999.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb50943b.css",
+    "static/js/main.31350999.js"
+  ]
+}
